@@ -1,5 +1,5 @@
 
-# Hi There, I'm João Bitu! a Web Developer from Brazil! 
+# &#128075; Hi There, I'm João Bitu! a Web Developer from Brazil! 
 
 Are you Looking for a portfolio? [Find it here](https://github.com/joaobitu) (under construction!)
 ## Current Happenings
