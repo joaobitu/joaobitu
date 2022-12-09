@@ -33,9 +33,11 @@ Are you Looking for a portfolio? [Find it here](https://github.com/joaobitu) (un
 ## Technologies
 
 **Fluent in:**
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,vscode&theme=light)](https://skillicons.dev)
 
 **Actively Learning:**
+
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,nodejs&theme=light)](https://skillicons.dev)
 ## Get In Touch 
 
