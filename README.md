@@ -7,6 +7,8 @@ Are you Looking for a portfolio? [Find it here](https://github.com/joaobitu) (un
 - Working on my portfolio website!
 - Learning NodeJS
 - Looking for job opportunities as a Front End Developer
+
+Outside of development, I'm a happily married guy with a beautiful dog for a child!
 ## Previous Projects
 
 
