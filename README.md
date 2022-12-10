@@ -26,7 +26,7 @@ Outside of development, I'm a happily married guy with a beautiful dog for a chi
   * [Live Application](https://joaobitu.github.io/where-is-waldo/)
   * [Repository](https://github.com/joaobitu/where-is-waldo)
 * **Shopping Cart** buy Yu-Gi-Oh cards in this application built on react
-     * [Live Application](https://joaobitu.github.io/shopping-cart/shop)
+     * [Live Application](https://joaobitu.github.io/shopping-cart/)
    * [Repository](https://github.com/joaobitu/shopping-cart)
 * **To-Do List** a classic project! make tasks and plan ahead!
     * [Live Application](https://joaobitu.github.io/to-do-list/)
