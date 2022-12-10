@@ -13,23 +13,23 @@ Outside of development, I'm a happily married guy with a beautiful dog for a chi
 
 
 * **Block Talk** a fullstack social media application to interact with your friends.
-   * [Live Application](joaobitu.github.io/block-talk/#/)
+   * [Live Application](https://joaobitu.github.io/block-talk/#/)
    * [Repository](https://github.com/joaobitu/block-talk)
 * **Admin Dashboard**, a layout built with the powerful CSS Grid
-    * [Live Application](joaobitu.github.io/admin-dashboard/)
+    * [Live Application](https://joaobitu.github.io/admin-dashboard/)
     * [Repository](https://github.com/joaobitu/admin-dashboard) 
 
 * **Battleship** a minimalist take on the classic game, with a computer AI to boot.
-     * [Live Application](joaobitu.github.io/Battleship/)
+     * [Live Application](https://joaobitu.github.io/Battleship/)
    * [Repository](https://github.com/joaobitu/Battleship)
 * **Where's Waldo?** a fullstack implementation of the classic children's books.
-  * [Live Application](joaobitu.github.io/where-is-waldo/)
+  * [Live Application](https://joaobitu.github.io/where-is-waldo/)
   * [Repository](https://github.com/joaobitu/where-is-waldo)
 * **Shopping Cart** buy Yu-Gi-Oh cards in this application built on react
-     * [Live Application](joaobitu.github.io/shop)
+     * [Live Application](https://joaobitu.github.io/shop)
    * [Repository](https://github.com/joaobitu/shopping-cart)
 * **To-Do List** a classic project! make tasks and plan ahead!
-    * [Live Application](joaobitu.github.io/to-do-list/)
+    * [Live Application](https://joaobitu.github.io/to-do-list/)
     * [Repository](https://github.com/joaobitu/to-do-list)
 
 ## Technologies
