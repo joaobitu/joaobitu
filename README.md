@@ -40,7 +40,7 @@ Outside of development, I'm a happily married guy with a beautiful dog for a chi
 
 **Actively Learning:**
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,nodejs&theme=light)](https://skillicons.dev)
 ## Get In Touch 
 
 [![Github](https://img.shields.io/badge/-Joao_bitu-000?style=for-the-badge&logo=github&logoColor=azure&color=181717)](https://github.com/joaobitu)
