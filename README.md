@@ -36,7 +36,7 @@ Outside of development, I'm a happily married guy with a beautiful dog for a chi
 
 **Fluent in:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,git,vscode&theme=light)](https://skillicons.dev)
 
 **Actively Learning:**
 
