@@ -13,7 +13,7 @@ Outside of development, I'm a happily married guy with a beautiful dog for a chi
 
 
 * **Block Talk** a fullstack social media application to interact with your friends.
-   * [Live Application](https://joaobitu.github.io/block-talk/#/)
+   * [Live Application](https://dapper-meerkat-e86fe4.netlify.app/#/)
    * [Repository](https://github.com/joaobitu/block-talk)
 * **Admin Dashboard**, a layout built with the powerful CSS Grid
     * [Live Application](https://joaobitu.github.io/admin-dashboard/)
