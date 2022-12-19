@@ -1,8 +1,7 @@
 
 # &#128075; Hi There, I'm João Bitu! a Web Developer from Brazil! 
 
-Are you Looking for a [portfolio](https://polite-strudel-3cec49.netlify.app/)?
-Are you Looking for my [resume](https://drive.google.com/uc?export=download&id=10EgLHJa-qyvivbf2iYQcLcRs4tR912hS)? 
+Are you Looking for a [portfolio](https://polite-strudel-3cec49.netlify.app/)? Or maybe my [resume](https://drive.google.com/uc?export=download&id=10EgLHJa-qyvivbf2iYQcLcRs4tR912hS)? 
 ## Current Happenings
 
 - Working on my portfolio website!
