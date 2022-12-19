@@ -4,8 +4,8 @@
 Are you Looking for a [portfolio](https://polite-strudel-3cec49.netlify.app/)? Or maybe my [resume](https://drive.google.com/uc?export=download&id=10EgLHJa-qyvivbf2iYQcLcRs4tR912hS)? 
 ## Current Happenings
 
-- Working on my portfolio website!
 - Learning NodeJS
+- Exploring design systems
 - Looking for job opportunities as a Front End Developer
 
 Outside of development, I'm a happily married guy with a beautiful dog for a child!
