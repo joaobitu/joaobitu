@@ -1,7 +1,8 @@
 
 # &#128075; Hi There, I'm João Bitu! a Web Developer from Brazil! 
 
-Are you Looking for a portfolio? [Find it here](https://github.com/joaobitu) (under construction!)
+Are you Looking for a [portfolio](https://polite-strudel-3cec49.netlify.app/)?
+Are you Looking for my [resume](https://drive.google.com/uc?export=download&id=10EgLHJa-qyvivbf2iYQcLcRs4tR912hS)? 
 ## Current Happenings
 
 - Working on my portfolio website!
@@ -28,19 +29,19 @@ Outside of development, I'm a happily married guy with a beautiful dog for a chi
 * **Shopping Cart** buy Yu-Gi-Oh cards in this application built on react
      * [Live Application](https://joaobitu.github.io/shopping-cart/)
    * [Repository](https://github.com/joaobitu/shopping-cart)
-* **To-Do List** a classic project! make tasks and plan ahead!
-    * [Live Application](https://joaobitu.github.io/to-do-list/)
-    * [Repository](https://github.com/joaobitu/to-do-list)
+* **Portfolio Website** My portfolio itself was a project to show my layout skills! made with React and TailwindCSS!
+    * [Live Application](https://polite-strudel-3cec49.netlify.app/)
+    * [Repository](https://github.com/joaobitu/portfolio)
 
 ## Technologies
 
 **Fluent in:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,git,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,tailwind,git,vscode&theme=light)](https://skillicons.dev)
 
 **Actively Learning:**
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
 ## Get In Touch 
 
 [![Github](https://img.shields.io/badge/-Joao_bitu-000?style=for-the-badge&logo=github&logoColor=azure&color=181717)](https://github.com/joaobitu)
