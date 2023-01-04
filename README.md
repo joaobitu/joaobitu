@@ -1,10 +1,10 @@
 
-# &#128075; Hi There, I'm João Bitu! a Web Developer from Brazil! 
+# &#128075; Hi There, I'm João Bitu! a Mobile and Web Front End Developer from Brazil! 
 
 Are you Looking for a [portfolio](https://polite-strudel-3cec49.netlify.app/)? Or maybe my [resume](https://drive.google.com/uc?export=download&id=10EgLHJa-qyvivbf2iYQcLcRs4tR912hS)? 
 ## Current Happenings
 
-- Learning NodeJS
+- Going Deeper on Mobile!
 - Exploring design systems
 - Looking for job opportunities as a Front End Developer
 
@@ -36,11 +36,11 @@ Outside of development, I'm a happily married guy with a beautiful dog for a chi
 
 **Fluent in:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,tailwind,git,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,tailwind,git, materialui&theme=light)](https://skillicons.dev)
 
 **Actively Learning:**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,kotlin&theme=light)](https://skillicons.dev)
 ## Get In Touch 
 
 [![Github](https://img.shields.io/badge/-Joao_bitu-000?style=for-the-badge&logo=github&logoColor=azure&color=181717)](https://github.com/joaobitu)
